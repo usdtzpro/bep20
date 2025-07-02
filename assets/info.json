@@ -14,8 +14,11 @@
             "url": "https://x.com/zedxionc"
         },
         {
-            "name": "coinmarketcap",
-            "url": "#"
+            "name": "github",
+            "url": "https://github.com/usdtzpro"
         }
+    ],
+    "tags": [
+        "stablecoin"
     ]
 }
